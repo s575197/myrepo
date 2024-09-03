@@ -1,5 +1,0 @@
-m mammal
-o outside
-u USB
-s small
-e eager
